@@ -11,7 +11,7 @@ Draft 1; Basic Design
 ![DriveTD1](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/2ef51a66-edcd-42be-ad3b-06022c7bd7d4)
 
 
-# *Robot Rules
+# Robot Rules
 https://content.vexrobotics.com/docs/23-24/vrc-overunder/VRC-Manual-2324-2.0-Release.pdf
 1. One Robot
 2. Must fit in an 18” cube.
@@ -28,7 +28,7 @@ https://content.vexrobotics.com/docs/23-24/vrc-overunder/VRC-Manual-2324-2.0-Rel
 13. One or two controllers per robot.
 Use a competition template for programming.
 
-# *Autonomous Period Win Point
+# Autonomous Period Win Point
   Removed triball from load zone.
   Scored at least on alliance triball on alliance goal.
   Ended the autonomous period contacting their own elevation bar.
