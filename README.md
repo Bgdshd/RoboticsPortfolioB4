@@ -12,6 +12,8 @@
 
 Draft 1; Basic Design
 ![DriveTD1](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/2ef51a66-edcd-42be-ad3b-06022c7bd7d4)
+Draft 2; Drive Train Detailed
+![DriveTrain2](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/759f134c-a40e-4d30-af53-0669e5c3b0f7)
 
 
 # Robot Rules
