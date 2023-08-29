@@ -1,7 +1,17 @@
 # Mr Damstedt's Robotics Portfolio
 # Robotic Design
 Markup : * Drive Train: 4 Motor standard, 4-6 wheels it will most likely change with testing.
-            * Nested bullet
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
 
 Draft 1; Basic Design
