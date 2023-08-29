@@ -35,3 +35,9 @@ Use a competition template for programming.
   Removed triball from load zone.
   Scored at least on alliance triball on alliance goal.
   Ended the autonomous period contacting their own elevation bar.
+
+# People
+Truman - Main programmer, Junior Assistant
+Eli - Builder, Co Programmer
+Jermain - Co Programmer, Driver
+Xander - Builder, Co Programmer
