@@ -1,6 +1,6 @@
 # Mr Damstedt's Robotics Portfolio
 # Robotic Design
-Drive Train: 4 Motor standard, 4-6 wheels it will most likely change with testing.
+Drive Train: 4 Motor standard, 4-6 wheels it will most likely change with testing. It will have decent strength and speed without sacraficing too much weight or space inside the chassis.
 
 Launcher: Chain of 1-3 motor(s) working together to draw back a hammer attached to various strength rubber bands. Once drawn back its released and launches the triballs forward.
 
