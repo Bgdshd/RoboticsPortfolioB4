@@ -36,8 +36,11 @@ Use a competition template for programming.
   Scored at least on alliance triball on alliance goal.
   Ended the autonomous period contacting their own elevation bar.
 
-# People
+## People
 Truman - Main programmer, Junior Assistant
+
 Eli - Builder, Co Programmer
+
 Jermain - Co Programmer, Driver
+
 Xander - Builder, Co Programmer
