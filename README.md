@@ -16,6 +16,10 @@ Draft 2A; Drive Train Detailed
 ![DriveTrain2](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/759f134c-a40e-4d30-af53-0669e5c3b0f7)
 Draft 2B; Drive Train Real World Impliment
 ![DriveTrainV3](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/acf0a906-82c9-4f3a-a5b6-6236f01fa89f)
+Draft 2C;
+![D](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/00d7aefa-10e3-4e63-8a26-84310e46f0d8)
+Draft 2D;
+![G](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/f08e65b3-340e-42ef-9316-91eec6a8188c)
 Draft 3; Object Manipulator first Draft
 ![271404558-11c382ad-65df-460a-8d14-48d61256e5c8](https://github.com/Bgdshd/RoboticsPortfolioB4/assets/111591253/64ca9fcb-5794-432c-a9f6-7c03c3433dbb)
 
